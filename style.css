@@ -1,0 +1,222 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px ;
+    margin-right:  0px;
+    
+}
+#header{
+    background-color: rgb(223, 109, 43);
+    text-align: center;
+padding-top: 1px;
+    padding-bottom: 2px;
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    color: rgb(73, 21, 21);
+   margin-bottom: -53px;
+ 
+}
+#sticky{
+    text-align: center;
+    color: rgb(73, 21, 21) ;
+    background-color: rgb(223, 109, 43);
+    font-family: 'Merienda', cursive;
+    font-size: large;
+    position: sticky;
+    top: 0px;
+    margin-bottom: -25px;
+}
+#body1{
+    background-image: url(./images/coffee-beans-with-props-making-coffee_11zon_11zon.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+    
+    color: rgb(255, 255, 255) ;
+    padding-top: 10px;
+    height: auto; 
+    padding-bottom: 40px;
+}
+#agree{
+    font-family: 'Itim', cursive;
+    font-size: 42px;
+    padding-right: 800px;
+    padding-left: 30px;
+}
+#box{
+    font-family:cursive;
+   text-align: justify;
+    border: 2px solid rgb(255, 255, 255);
+   padding: 40px;
+  margin-left: 40px;
+  margin-right: 780px;
+  font-size: 18px;
+}
+.body2{
+    padding-top: 10px;
+    background-color: rgb(255, 177, 118);
+    padding-bottom: 40px;
+
+}
+#headings{font-family: 'Unbounded', cursive;
+   
+    font-size: 50px;
+    text-align: center;
+    margin-top: 70px;
+    padding-top: 10px;
+    
+}
+#explore{
+    padding-left: 10px;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+   
+}
+#coffedesc{
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+}
+.gallery {
+background-color: rgba(179, 179, 179, 0.61);
+    margin: 20px;
+    float: left;
+    width: 400px;
+    height: 600px;
+    border-radius: 50px;
+
+  }
+  #typesfindout{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: black;
+  }
+  #typesfindout:hover{
+    box-shadow: inset 100px 0  #54b3d6;
+  color: white;
+  }
+  
+.fa-solid{
+    font-size: 27px;
+}
+  
+.gallery img {
+    border-bottom-right-radius: 50px ;
+    width: 100%;
+    -webkit-filter: brightness(80%);
+    height: auto;
+  }
+  .gallery img:hover{
+    
+    -webkit-filter: brightness(100%);
+  }
+  
+  
+.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+
+  .brandsclass{
+    border: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 90px;
+    margin-bottom: 20px;
+    height: 190px;
+    
+  }
+  .brandsheading{
+    font-family: 'Teko', sans-serif;
+    font-size: 30px;
+  }
+  .brandscontent{
+    font-family: 'Varela Round', sans-serif;
+  }
+  .brandsimgleft{
+    width: 350px;
+    height: 250px;
+    float: left;    
+    margin: 0 0 0 15px;
+    margin: 30px;
+    margin-bottom: 50px;
+  }
+  .brandsimgright{
+    width: 350px;
+    height: 280px;
+    float: right;    
+    margin: 0 0 0 15px;
+    margin: 30px;
+  }
+  
+ 
+  .images{
+    margin:30px;
+    background-color: rgb(145, 145, 145);
+  }
+  .images:hover{
+    -webkit-filter: brightness(130%);
+  }
+  .images img {
+    padding:10px;
+ grid-row: auto;
+   width: 300px;
+    float: left;
+    height: 200px;
+    
+  }
+  .contactform{
+    font-family: cursive;
+    background-color:#DF6D2B;
+    border: 2px  solid rgb(0, 0, 0) ;
+    width: fit-content;
+    padding: 30px;
+    margin: auto;
+    
+    text-align: center;
+  }
+  button{
+    border-color: #000000;
+    border-width: 2px;
+    background-color: #DF6D2B;
+    font-family: cursive;
+    font-size: larger;
+    border-radius: 20px;
+    width: 130px;
+    height: 40px;
+    color: rgb(0, 0, 0);
+  }
+  button:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+  }
+  
+  .whatsApp{
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:40px;
+    left:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index:100;
+}
+.my-whatsApp{
+    margin-top:16px;
+}
+#footernav{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  float: right;
+  color:rgb(73, 21, 21);
+}
+ footer{
+  background-color:rgb(223, 109, 43) ;
+    
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  
+ }
